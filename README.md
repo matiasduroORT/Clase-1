@@ -2,5 +2,4 @@
 
 # Profesor: Matias
 
-# Alumno Apellido: Duro
-# Alumno: Matias
+# Alumno: 
