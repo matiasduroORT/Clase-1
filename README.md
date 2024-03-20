@@ -1,5 +1,5 @@
 # PNT2 Miercoles
 
-# Profesor: Matias
+# Profesor: Matias Duro
 
-# Alumno: Matias Duro
+# Alumno: Ignacio Castro Centeno
