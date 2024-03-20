@@ -4,7 +4,6 @@
 # Alumno: Matias Monti
 # Alumno: Matias Duro
 # Alumno: Tobias Ini
-# Alumno: 
 
 # Materias
 
