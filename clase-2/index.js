@@ -16,9 +16,10 @@ const alumnos = [
   },
 ];
 
-function ObtenerMayorEdad(alumnos) {
+function ObtenerMayorEdad() {
   let resultado = 0;
   const data = Object.values(alumnos);
+  console.log(data);
   for (let i = 0; i < data.length; i++) {
     if (data[i].edad > resultado) {
       resultado = data[i].edad;
@@ -27,6 +28,6 @@ function ObtenerMayorEdad(alumnos) {
   return resultado;
 }
 
-const mayorEdad = ObtenerMayorEdad(alumnos);
+const mayorEdad = ObtenerMayorEdad();
 
 console.log(`El alumno mayor tiene ${mayorEdad} años`);
